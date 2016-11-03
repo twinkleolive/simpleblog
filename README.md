@@ -1,0 +1,2 @@
+# simpleblog
+python django study
